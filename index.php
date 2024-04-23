@@ -1,12 +1,24 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
+
+<head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" href="static/favicon.ico" />
+    <meta name="description" content="東洋大学赤羽台キャンパス大学祭「赤羽台祭」は、2023/11/04(土), 05(日)に開催！" />
+    <meta name="keywords" content="東洋大学,大学祭,学園祭,赤羽台祭,赤羽" />
+    <meta property="og:url" content="https://akabanedai-fes.com/" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="赤羽台祭 [東洋大学赤羽台キャンパス大学祭]" />
+    <meta property="og:description" content="東洋大学赤羽台キャンパス大学祭「赤羽台祭」は、2023/11/04(土), 05(日)に開催！" />
+    <meta property="og:site_name" content="赤羽台祭" />
+    <meta property="og:image" content="https://akabanedai-fes.com/images/ogp.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@akabanedaifes" />
     <link rel="stylesheet" href="static/css/index.css">
     <title>第７回 赤羽台祭</title>
 </head>
+
 <body>
     <?php
     $picture = array(
@@ -18,7 +30,7 @@
         array('welcome.PNG', 'photo by 赤羽台祭 実行委員会'),
         array('wellb.jpg', 'photo by 赤羽台祭 実行委員会')
     );
-    $select = $picture[rand(0, count($picture)-1)];
+    $select = $picture[rand(0, count($picture) - 1)];
     $select_picture = $select[0];
     $select_name = $select[1];
     ?>
@@ -43,4 +55,5 @@
         </div>
     </div>
 </body>
+
 </html>

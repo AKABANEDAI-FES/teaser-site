@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Zen Kaku Gothic New'; 
+    src: url('../fonts/ZenKakuGothicNew-Regular.ttf') format('truetype');
+  }
+
+html {
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+    color: #363636;
+}
+
+.title{
+    text-align: center;
+    padding: 2%;
+}
+
+.title h1{
+    margin: 0 0 2% 0;
+}
+
+.date h2{
+    text-align: center;
+    margin: 0;
+    padding: 2%;
+}
+
+.date span{
+    font-size: 0.7em;
+}
+
+.campus {
+  padding: 10% 5%;
+}
+
+.campus img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.campus p {
+  text-align: right;
+  margin: 0 2%;
+  color: #757575;
+  font-size: 0.8em;
+}
+
+.content {
+  padding: 2%;
+}
+
+.content p {
+  text-align: center;
+}
+
+.footer {
+    text-align: center;
+    margin: 0% 0% 10% 0%;
+}
+
+.container {
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 480px) {
+    .container {
+        width: 80%;
+    }
+}
+
+@media screen and (min-width: 580px) {
+  .container {
+      width: 70%;
+  }
+}
+
+@media screen and (min-width: 680px) {
+  .container {
+      width: 60%;
+  }
+}
+
+@media screen and (min-width: 780px) {
+  .container {
+      width: 50%;
+  }
+}
+
+@media screen and (min-width: 980px) {
+  .container {
+      width: 40%;
+  }
+}
+
+@media screen and (min-width: 1180px) {
+  .container {
+      width: 30%;
+  }
+}
