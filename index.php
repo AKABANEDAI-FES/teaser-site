@@ -5,12 +5,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" href="static/favicon.ico" />
-    <meta name="description" content="東洋大学赤羽台キャンパス大学祭「赤羽台祭」は、2023/11/04(土), 05(日)に開催！" />
+    <meta name="description" content="東洋大学赤羽台キャンパス大学祭「赤羽台祭」は、2024/11/02(土), 03(日)に開催！" />
     <meta name="keywords" content="東洋大学,大学祭,学園祭,赤羽台祭,赤羽" />
     <meta property="og:url" content="https://akabanedai-fes.com/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="赤羽台祭 [東洋大学赤羽台キャンパス大学祭]" />
-    <meta property="og:description" content="東洋大学赤羽台キャンパス大学祭「赤羽台祭」は、2023/11/04(土), 05(日)に開催！" />
+    <meta property="og:description" content="東洋大学赤羽台キャンパス大学祭「赤羽台祭」は、2024/11/02(土), 03(日)に開催！" />
     <meta property="og:site_name" content="赤羽台祭" />
     <meta property="og:image" content="https://akabanedai-fes.com/images/ogp.png" />
     <meta name="twitter:card" content="summary_large_image" />
