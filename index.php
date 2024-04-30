@@ -48,7 +48,7 @@
         </div>
         <div class="content">
             <p>今年度のWebサイトを頑張って作っています。<br>公開までお待ちください。</p>
-            <p><a href="/02">昨年度のサイトを見る</a></p>
+            <p><a href="/07/akabanedai-fes-2023">昨年度のサイトを見る</a></p>
         </div>
         <div class="footer">
             <p>©︎ 2023 赤羽台祭 実行委員会</p>
