@@ -16,7 +16,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@akabanedaifes" />
     <link rel="stylesheet" href="static/css/index.css">
-    <title>第７回 赤羽台祭</title>
+    <title>第８回 赤羽台祭</title>
 </head>
 
 <body>
@@ -41,10 +41,10 @@
         </div>
         <div class="title">
             <p>東洋大学赤羽台キャンパス大学祭</p>
-            <h1>第７回 赤羽台祭</h1>
+            <h1>第８回 赤羽台祭</h1>
         </div>
         <div class="date">
-            <h2>2023.11.4 <span>(Sat.)</span> , 5 <span>(Sun.)</span></h2>
+            <h2>2024.11.2 <span>(Sat.)</span> , 3 <span>(Sun.)</span></h2>
         </div>
         <div class="content">
             <p>今年度のWebサイトを頑張って作っています。<br>公開までお待ちください。</p>
