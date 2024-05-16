@@ -23,7 +23,6 @@
     <?php
     $picture = array(
         array('inya.png', 'illustrated by はう'),
-        array('pacchinya2.jpg', 'illustrated by はう'),
         array('monument.jpg', 'photo by 赤羽台祭 実行委員会'),
         array('stage.jpg', 'photo by 赤羽台祭 実行委員会'),
         array('stamp.PNG', 'photo by 赤羽台祭 実行委員会'),
@@ -48,10 +47,10 @@
         </div>
         <div class="content">
             <p>今年度のWebサイトを頑張って作っています。<br>公開までお待ちください。</p>
-            <p><a href="/07/akabanedai-fes-2023">昨年度のサイトを見る</a></p>
+            <p><a href="/07/akabanedai-fes-2023" target="_blank">昨年度のサイトを見る</a></p>
         </div>
         <div class="footer">
-            <p>©︎ 2023 赤羽台祭 実行委員会</p>
+            <p>©︎ 2024 赤羽台祭 実行委員会</p>
         </div>
     </div>
 </body>
