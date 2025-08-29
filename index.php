@@ -1,18 +1,21 @@
 <!DOCTYPE html>
 <html lang="ja">
 
-<head prefix="og: http://ogp.me/ns#">
+<head prefix="og: http://ogp.me/ns#"><head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" href="static/favicon.ico" />
     <meta name="description" content="東洋大学赤羽台キャンパス大学祭「赤羽台祭」は、2025/11/02(日), 03(月)に開催！" />
     <meta name="keywords" content="東洋大学,大学祭,学園祭,赤羽台祭,赤羽" />
+
+
     <meta property="og:url" content="https://akabanedai-fes.com/" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="赤羽台祭 [東洋大学赤羽台キャンパス大学祭]" />
     <meta property="og:description" content="東洋大学赤羽台キャンパス大学祭「赤羽台祭」は、2025/11/02(日), 03(月)に開催！" />
     <meta property="og:site_name" content="赤羽台祭" />
-    <meta property="og:image" content="https://akabanedai-fes.com/images/ogp.png" />
+<!--     <meta property="og:image" content="https://akabanedai-fes.com/images/ogp.png" /> -->
+
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@akabanedaifes" />
     <link rel="stylesheet" href="static/css/index.css">
@@ -26,8 +29,8 @@
         array('2024wellbakabane.png', 'photo by 赤羽台祭 実行委員会'),
         array('monument.jpg', 'photo by 赤羽台祭 実行委員会'),
         array('stage.jpg', 'photo by 赤羽台祭 実行委員会'),
-        array('stamp.PNG', 'photo by 赤羽台祭 実行委員会'),
-        array('welcome.PNG', 'photo by 赤羽台祭 実行委員会'),
+        array('stamp.png', 'photo by 赤羽台祭 実行委員会'),
+        array('welcome.png', 'photo by 赤羽台祭 実行委員会'),
         array('wellb.jpg', 'photo by 赤羽台祭 実行委員会')
     );
     $select = $picture[rand(0, count($picture) - 1)];
@@ -44,19 +47,21 @@
             <h1>第９回 赤羽台祭</h1>
         </div>
         <div class="date">
-            <h2>2025.11.2 <span>(Sun.)</span> , 3 <span>(Mon.)</span></h2>
+            <h2>2025.11.2 <span>(Sun.)</span> , 3 <span>(Mon.)</span><br>10:00〜18:00</h2>
         </div>
         <div class="content">
             <p>今年度のWebサイトを頑張って作っています。<br>公開までお待ちください。</p>
-            <div class="description">
-                <p>
-                　赤羽台祭は、東洋大学赤羽台キャンパスで開催される大学祭です。
-                <br>
-                　9回目となる今年度の赤羽台祭は、「Link（繋ぐ）」をテーマに掲げ、これまで培ってきた歴史や経験をつなぎ合わせ、さらなる発展を目指しております。学生や地域の皆様をはじめ、多くの方々にとって「つながり」を感じられる場となるよう、赤羽台祭を盛り上げてまいります。                        <br>
-                　つきましては、第9回赤羽台祭では本イベントの趣旨にご賛同いただき、ご支援いただける企業・団体様を募集しております。協賛にご関心をお持ちいただけましたら、下記メールアドレスまでお気軽にお問い合わせください。<br>
-                Email: support@akabanedai-fes.com
-                </p>
-            </div>
+        </div>
+        <div class="content1">
+           <p>　赤羽台祭は、東洋大学赤羽台キャンパスで開催される大学祭です。<br>
+　9回目となる今年度の赤羽台祭は、「Link（繋ぐ）」をテーマに掲げ、これまで培ってきた歴史や経験をつなぎ合わせ、さらなる発展を目指しております。
+学生や地域の皆様をはじめ、多くの方々にとって「つながり」を感じられる場となるよう、赤羽台祭を盛り上げてまいります。</p><p class="subtitle">【ご協賛のお願い】</p><p class="detail">
+　第9回赤羽台祭では本イベントの趣旨にご賛同いただき、ご支援いただける企業・団体様を募集しております。
+協賛にご関心をお持ちいただけましたら、下記メールアドレスまでお気軽にお問い合わせください。<br>Email: support[at]akabanedai-fes.com<br>※ ご連絡の際は[at]を@に変更してお送りください。
+</p>
+
+        </div>
+        <div class="content2">
             <p><a href="/08">昨年度のサイトを見る</a></p>
         </div>
         <div class="footer">
@@ -66,3 +71,6 @@
 </body>
 
 </html>
+
+
+
