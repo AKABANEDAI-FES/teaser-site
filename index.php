@@ -48,7 +48,7 @@
             <h1>第10回 赤羽台祭</h1>
         </div>
         <div class="date">
-            <h2>2026.10.31 <span>(Sat.)</span> , 11.1 <span>(Sun.)</span></h2>
+            <h2>2026.10.31 <span>(Sat.)</span> , 11.1 <span>(Sun.)</span><br>10:00-18:00(17:30企画終了)</h2>
         </div>
         <div class="content">
             <p>今年度のWebサイトを頑張って作っています。<br>公開までお待ちください。</p>
